@@ -13,5 +13,5 @@ const dcdc = (param) => {
 dcdc({
     dcdc: "#dcdc",
     speed: 70,
-    message: "We Are DCDC Japan based Security Team!!!"
+    message: "Japan based Security Team!!!"
 });
